@@ -21,4 +21,7 @@ The West and East regions lead in total sales, indicating strong markets in thes
 There’s an opportunity to capitalize on high-demand products like the Canon Copier and look into optimizing sales strategies for lower-performing products.
 These insights provide a comprehensive view of supply chain performance, customer preferences, and potential areas for business growth.
 
+![image](https://github.com/user-attachments/assets/d39237ef-d2b6-4ebd-a197-f5fd2fd5226b)
+
+
 
